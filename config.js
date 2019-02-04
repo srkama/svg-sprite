@@ -1,0 +1,4 @@
+HTMLTemplate = `<html>`
+module.exports = {
+
+}
