@@ -27,7 +27,7 @@ coverage
 bower_components
 
 #node modules
-node_moduless
+node_modules/
 
 # node-waf configuration
 .lock-wscript
