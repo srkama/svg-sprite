@@ -24,7 +24,7 @@ const args = yargs
   })
   .demandOption(['i'])
   .usage('$0 --input <input directory> --output <output directory>')
-  .usage('$0 --i <input directory> --o <outpt directory>')
+  .usage('$0 --i <input directory> --o <output directory>')
   .example('$0 --input /svgs/ --output /svgsprite/')
   .example('$0 --i /svgs/ --o /svgsprite/')
   .example('$0 --i /svgs/')
