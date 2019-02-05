@@ -1,5 +1,5 @@
 {
-  "name": "svg-creator",
+  "name": "svg-sprite-creator",
   "version": "1.0.0",
   "description": "svg creator and creates class for each svg and HTML",
   "main": "index.js",
